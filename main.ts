@@ -8,6 +8,7 @@ namespace CodeLib{
     //% name.fieldEditor="gridpicker" name.fieldOptions.columns=4
     export function PrintNumber (value1: number) {
     basic.showNumber(value1)
+    basic.showIcon(IconNames.Heart)
     basic.clearScreen()
 }
 
