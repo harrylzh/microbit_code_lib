@@ -1,6 +1,6 @@
 namespace CodeLib{
     
-    //% blockId=CodeLib_PrintNumber block="数字显示定时|数字 %value1"
+    //% blockId=CodeLib_PrintNumber block="数字显示定时|value1 %数字"
     //% color="#006400"    
     //% weight=97
     //% blockGap=10
