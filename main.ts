@@ -1,14 +1,13 @@
 namespace CodeLib{
     
-    //% blockId=CodeLib_PrintNumber block="数字显示定时"
+    //% blockId=CodeLib_PrintNumber block="数字显示定时|value1 %value1"
     //% color="#006400"    
     //% weight=97
     //% blockGap=10
     //% value1.min=0 value1.max=255 
     //% name.fieldEditor="gridpicker" name.fieldOptions.columns=4
     export function PrintNumber (value1: number) {
-    basic.showNumber(value1)
-    basic.showIcon(IconNames.Heart)
+    basic.showNumber(value1)    
     basic.clearScreen()
 }
 
