@@ -40,7 +40,7 @@ namespace CodeLib{
         basic.clearScreen()
     }
 
-    //% blockId=CodeLib_LedRGB block="RGB|pinRed %pinRed|pinGreen %pinGreen|pinBlue %pinBlue|value %value"
+    //% blockId=CodeLib_LedRGB block="LedRGB|pinRed %pinRed|pinGreen %pinGreen|pinBlue %pinBlue|value %value"
     //% weight=1
     //% blockGap=20
     //% color="#C814B8"
